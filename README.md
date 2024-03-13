@@ -4,8 +4,11 @@
   ## Key Stack:
   - NextJS, React
   - Tailwind CSS
-   - TypeScript
-  - OpenAI API
+  - TypeScript
+  - Prisma
+  - tRPC
+  - Kinde Auth
+  - OpenAI API and LangChain
  
     ## Release:
     - N/A; will be available on Product Hunt. Coming soon.
