@@ -1,5 +1,5 @@
 # Kesil AI Startup:
-- We are developing an AI-assist data-driven research platform for FinTech organizations and educational institutes.
+- We are developing an AI-assist data-driven research platform for document analysis.
 
   ## Key Stack:
   - NextJS, React
