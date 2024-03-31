@@ -14,3 +14,5 @@
     - N/A; will be available on Product Hunt. Coming soon.
 
 # Demo:
+   - [IntelliParse-AI Preview](IntelliParse-AI.mp4)
+
